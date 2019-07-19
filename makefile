@@ -1,6 +1,6 @@
 readme:
 	touch README.md
-	echo "## Tile:Guessing game" > README.md
+	echo "## Guessing game" > README.md
 	echo "- Date:" >> README.md
 	date '+%D %X' >> README.md
 	echo "- Number of line" >> README.md
